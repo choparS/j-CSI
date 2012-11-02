@@ -55,7 +55,7 @@ public class DbManager
 			myConnect 					= DriverManager.getConnection(strConnectURL, "TP2", "TP2");//login & password
 		
 			//Option: Acces a un jeu de meta information sur la base avec laquelle on dialogue.
-			/*myDbMetaData 				= myConnect.getMetaData();
+			myDbMetaData 				= myConnect.getMetaData();
 
 			System.out.println("DbManager: dbConnect: show DataBase MetaData:");
 			System.out.println("DbManager: dbConnect: productName=" 	+ myDbMetaData.getDatabaseProductName());
@@ -124,12 +124,12 @@ public class DbManager
 			//myPreparedStatement.setString(2, 'myStrValue');
 			
 			//myPreparedStatement.executeUpdate();
-			//myPreparedStatement.executeQuery();*/	
+			//myPreparedStatement.executeQuery();	
 		}
 		catch (ClassNotFoundException e) 	{System.out.println("dbConnect ClassNotFoundException: " + e.toString()); e.printStackTrace();}	
 		catch (SQLException e) 				{System.out.println("dbConnect SQLException: " + e.toString()); e.printStackTrace();}	
 		catch (Exception e) 					{System.out.println("dbConnect Exception: " + e.toString()); 	e.printStackTrace();}	
-		/*finally
+		finally
 		{
 			try {myState.close();}
 			catch (java.sql.SQLException e)	{System.out.println("dbDisconnect: close statement: " + e.toString());}
@@ -138,7 +138,7 @@ public class DbManager
 			try {myConnect.close();}
 			catch (java.sql.SQLException e)	{System.out.println("dbDisconnect: close statement: " + e.toString());}
 			catch (Exception e)	{System.out.println("dbDisconnect: close connection: " + e.toString());}		
-		}*/
+		}
 	}
 
 	//////////////////

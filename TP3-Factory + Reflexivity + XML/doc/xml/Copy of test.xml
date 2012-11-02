@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<content>
+	<entries>
+		<entry id="aaaza" designation="myAAAA" type="a"/>
+		<entry id="aaza" designation="aa aa" type="a"/>
+		<entry id="bvbv" designation="myBB" type="b"/>
+		<entry id="bbg" designation=" bbb b" type="b"/>
+		<entry id="cc" designation="CCC" type="c"/>
+	</entries>
+</content>
+
