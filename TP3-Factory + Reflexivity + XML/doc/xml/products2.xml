@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<products>
+	<k7s>
+		<K7Element id="K001" designation="la belle verte" type="K7" price="10" />
+		<K7Element id="K002" designation="Scarface" type="K7" price="9" />
+		<K7Element id="K003" designation="Mon nom est Personne" type="K7" price="10"/>
+		<K7Element id="K004" designation="Le secret de la planete des singes" type="K7" price="10" genre="Science-Fiction" realisateur="Ted Post" annee="1970">
+			<Actors>
+				<Actor name="James Franciscus"/>
+				<Actor name="Kim Hunter"/>
+			</Actors>			
+		</K7Element>							
+		<K7Element id="K005" designation="Les évadés de la planete des singes" type="K7" price="10" genre="Science-Fiction" realisateur="Don Taylor" annee="1971">
+			<Actors>
+				<Actor name="Roddy McDowall"/>
+				<Actor name="Kim Hunter"/>
+			</Actors>			
+		</K7Element>							
+		<K7Element id="K006" designation="La conquète de la planete des singes" type="K7" price="10" genre="Science-Fiction" realisateur="Jack Lee-Thompson" annee="1972">
+			<Actors>
+				<Actor name="Roddy McDowall"/>
+				<Actor name="Don Murray"/>
+			</Actors>			
+		</K7Element>							
+		<K7Element id="K007" designation="Serpico" type="K7" price="10" genre="Policier" realisateur="Sidney Lumet" annee="1973"></K7Element>
+		<K7Element id="K008" designation="Gorille dans la brume" type="K7" price="10" genre="Drame" realisateur="Michael Apted" annee="1988"/>
+		<K7Element id="K009" designation="La femme défendue" type="K7" price="10" genre="Comédie" realisateur="Philippe Harel" annee="1997"/>
+		<K7Element id="K010" designation="Barracuda" type="K7" price="10" genre="Drame" realisateur="Philippe Haïm" annee="1997">
+			<Actors>
+				<Actor name="Jean Rochefort"/>
+				<Actor name="Guillaume Canet"/>
+				<Actor name="Claire Keim"/>
+			</Actors>			
+		</K7Element>									
+		<K7Element id="K010" designation="He got game" type="K7" price="10" genre="Comédie" realisateur="Spike Lee" annee="1998"/>
+		<K7Element id="K011" designation="Plan 9 From Outer Space" type="K7" price="10" genre="Fantastique" realisateur="Ed Wood" annee="1959">
+			<Actors>
+				<Actor name="Tor Johnson"/>
+			</Actors>			
+		</K7Element>							
+		<K7Element id="K012" designation="L'etoffe des héros" type="K7" price="10" genre="Aventure" realisateur="Philip Kaufman" annee="1983">
+			<Actors>
+				<Actor name="Sam Shepard"/>
+				<Actor name="Scott Glenn"/>
+				<Actor name="Ed Harris"/>
+				<Actor name="Denis Quaid"/>
+			</Actors>			
+		</K7Element>					
+		<K7Element id="K013" designation="Delicatessen" type="K7" price="10" genre="Comédie Dramatique" realisateur="Jean-Pierre Jeunet" annee="1991">
+			<Actors>
+				<Actor name="Dominique Pïnon"/>
+				<Actor name="Marie-Laure Dougnac"/>
+				<Actor name="Jean-Claude Dreyfus"/>
+				<Actor name="Karin Viard"/>
+			</Actors>			
+		</K7Element> 	
+		<K7Element id="K014" designation="La cité des enfants perdus" type="K7" price="10" genre="Fantastique" realisateur="Jean-Pierre Jeunet" annee="1995"/>
+		<K7Element id="K015" designation="Bernie" type="K7" price="10" genre="Comédie Dramatique" realisateur="Albert Dupontel" annee="1996">
+			<Actors>
+				<Actor name="Claude Perron"/>
+				<Actor name="Roland Blanche"/>
+				<Actor name="Hélène Vincent"/>
+			</Actors>					
+		</K7Element> 
+		<K7Element id="K016" designation="Le Createur" type="K7" price="10" genre="Comédie" realisateur="Albert Dupontel" annee="1999">
+			<Actors>
+				<Actor name="Claude Perron"/>
+				<Actor name="Philippe Uchan"/>
+				<Actor name="Michel Vuillermoz"/>
+				<Actor name="Nicolas Marie"/>
+			</Actors>					
+		</K7Element> 
+		<K7Element id="K017" designation="Les goonies" type="K7" price="10" genre="Aventure" realisateur="Richard Donner" annee="1985">
+			<Actors>
+				<Actor name="Sean Astin"/>
+				<Actor name="Josh Brolin"/>
+				<Actor name="Jeff Cohen"/>
+			</Actors>					
+		</K7Element> 
+		<K7Element id="K018" designation="Gorilles dans la brume" type="K7" price="10" genre="Drame" realisateur="Michael Apted" annee="1988">
+			<Actors>
+				<Actor name="Sigourney Weaver"/>
+				<Actor name="Brian Brown"/>
+			</Actors>					
+		</K7Element> 	
+		<K7Element id="K019" designation="1941" type="K7" price="15" genre="Comédie" realisateur="Steven Spielberg" annee="1980" scenario="Bob Gale, Robert Zemeckis" musique="John Williams" >
+			<Actors>
+				<Actor name="Dan Aykroyd" Role="Sergeant Tree" />
+				<Actor name="Ned Beatty" Role="Ward Douglas" />
+				<Actor name="Christopher Lee" Role="Von Kleinschmidt" />
+			</Actors>							
+		</K7Element>
+		<K7Element id="K020" designation="Albator 84: ma jeunesse en Arcadia" type="K7" price="15" genre="Animation" realisateur="Katsumata Tomoharu" annee="1984">
+		</K7Element>
+		<K7Element id="K021" designation="Jeremiah Johnson" type="K7" price="21" genre="Western" realisateur="Sidney Pollack" annee="1972">
+			<Actors>
+				<Actor name="Robert Redford"/>
+				<Actor name="Will Geer"/>
+			</Actors>							
+		</K7Element>
+		<K7Element id="K022" designation="Les Valseuses" type="K7" price="15" genre="Comédie" realisateur="Bertrand Blier" annee="1973">
+			<Actors>
+				<Actor name="Gérard Depardieu"/>
+				<Actor name="Miou-Miou"/>
+				<Actor name="Patrick Dewaere"/>
+				<Actor name="Jeanne Moreau"/>
+			</Actors>							
+		</K7Element>	
+		<K7Element id="K023" designation="Supervixens" type="K7" price="30" genre="Comédie" realisateur="Russ Meyer" annee="1975">
+			<Actors>
+				<Actor name="Charles Napier"/>
+				<Actor name="Charles Pitts"/>
+				<Actor name="Henry Rowland"/>
+				<Actor name="Shari Eubanks"/>
+			</Actors>							
+		</K7Element>			
+		<K7Element id="K024" designation="Ran" type="K7" price="25" genre="Drame" realisateur="Akira Kurosawa" annee="1985">
+			<Actors>
+				<Actor name="Tatsuya Nakadai"/>
+				<Actor name="Akira Terao"/>
+				<Actor name="Jinpachi Nezu"/>
+				<Actor name="Daisuke Ryu"/>
+			</Actors>							
+		</K7Element>				
+		<K7Element id="K025" designation="1984" type="K7" price="15" genre="Science-Fiction" realisateur="Michael Radford" annee="1984">	
+			<Actors>
+				<Actor name="John Hurt"/>
+				<Actor name="Richard Burton"/>
+				<Actor name="Suzanna Hamilton"/>
+				<Actor name="Cyril Cusack"/>
+			</Actors>							
+		</K7Element>				
+		<K7Element id="K026" designation="La folle journée de Feris Bueller" type="K7" price="15" genre="Comédie" realisateur="John Hugues" annee="1986">
+			<Actors>
+				<Actor name="Matthew Broderick"/>
+				<Actor name="Alan Ruck"/>
+				<Actor name="Mia Sara"/>
+				<Actor name="Jeffrey Jones"/>
+			</Actors>							
+		</K7Element>						
+		<K7Element id="K027" designation="Les Doors" type="K7" price="15" genre="Drame" realisateur="Oliver Stone" annee="1991">
+			<Actors>
+				<Actor name="Val Kilmer"/>
+				<Actor name="Meg Ryan"/>
+				<Actor name="Kevin Dillon"/>
+				<Actor name="Kyle MacLachian"/>
+			</Actors>							
+		</K7Element>				
+		<K7Element id="K028" designation="Battle Royal" type="K7" price="15" genre="Drame" realisateur="K. Fukasaku" annee="2000">
+			<Actors>
+				<Actor name="Takeshi Kitano"/>
+				<Actor name="Tatsuya Fujiwara"/>
+			</Actors>							
+		</K7Element>						
+		<K7Element id="K029" designation="Orgissimo" type="K7" price="30" genre="Comédie" realisateur="Russ Meyer" annee="1970">
+			<Actors>
+				<Actor name="Dolly Read"/>
+				<Actor name="Cynthia Myers"/>
+				<Actor name="Marcia McBroom"/>
+				<Actor name="John Lazar"/>
+			</Actors>							
+		</K7Element>
+		<K7Element id="K030" designation="Riens du tout" type="K7" price="15" genre="Comédie" realisateur="Cédric Klapisch" annee="1992" scenario="Cédric Klapisch, jackie Berroyer" musique="Jeff Cohen">
+			<Actors>
+				<Actor name="Fabrice Luchini" Role="Lepetit" />
+				<Actor name="Pierre Olivier Mornas" Role="Monsieur Roger" />
+				<Actor name="Coralie Zahonero" Role="Véronique" />
+			</Actors>							
+		</K7Element>			
+		<K7Element id="K031" designation="Faster Pussycat, Kill ! Kill !" type="K7" price="30" genre="Comédie" realisateur="Russ Meyer" annee="1966">	
+			<Actors>
+				<Actor name="Haji" />
+				<Actor name="Lori Williams" />
+			</Actors>							
+		</K7Element>			
+	</k7s>
+	<dvds>
+		<DvdElement id="D001" designation="The Big Lebowsky" type="DVD" price="15" />
+		<DvdElement id="D002" designation="L'enfer du dimanche" type="DVD" price="13" />
+		<DvdElement id="D003" designation="American Beauty" type="DVD" price="15" />
+		<DvdElement id="D004" designation="Braveheart" type="DVD" price="15" genre="Aventure" realisateur="Mel Gibson" annee="95" musique="James Horner" scenario="Randall Wallace"/>
+		<DvdElement id="D005" designation="Vercingetorix" type="DVD" price="15" genre="Aventure" realisateur="Jack Dorfmann" annee="2001">
+			<Actors>
+				<Actor name="Christophe Lambert"/>
+				<Actor name="Klaus Maria Brandauer"/>
+				<Actor name="Max von Sydow"/>
+				<Actor name="Inès Sastre"/>
+			</Actors>			
+		</DvdElement>									
+		<DvdElement id="D006" designation="Animal Factory" type="DVD" price="15" genre="Policier" realisateur="Steve Buscemi" annee="2000">
+			<Actors>
+				<Actor name="Willem Dafoe"/>
+				<Actor name="Edward Furlong"/>
+			</Actors>			
+		</DvdElement>											
+		<DvdElement id="D007" designation="La vie, l'amour, les vaches" type="DVD" price="15" genre="Comédie" realisateur="Ron Underwood" annee="1991">
+			<Actors>
+				<Actor name="Billy Cristal"/>
+				<Actor name="Daniel Stern"/>
+			</Actors>			
+		</DvdElement>											
+		<DvdElement id="D008" designation="Crossing Guard" type="DVD" price="15" genre="Drame" realisateur="Sean Penn" annee="1995"/>
+		<DvdElement id="D010" designation="Swimming with sharks" type="DVD" price="15" genre="Drame" realisateur="G. Huang" annee="1995"/>
+		<DvdElement id="D011" designation="Les grands ducs" type="DVD" price="15" genre="Comédie" realisateur="Patrice Leconte" annee="1995" musique="Jean-Claude Nachon, Angélique Nachon" scenario="Patrice Leconte, S. Frydman">
+			<Actors>
+				<Actor name="Jean-Pierre Marielle" role="Georges"/>
+				<Actor name="Philippe Noiret" role="Victor"/>
+				<Actor name="Jean Rochefort" role="Eddie"/>
+				<Actor name="Catherine Jacob" role="Carla"/>
+			</Actors>			
+		</DvdElement>							
+		<DvdElement id="D012" designation="Sling Blade" type="DVD" price="15" genre="Drame" realisateur="Billy Bob Thornton" annee="1997">
+			<Actors>
+				<Actor name="Dwight Yoakam" role="Doyle"/>
+				<Actor name="Lucas Black" role="Frank Weatley"/>
+				<Actor name="Nathalie Canerday" role="Linda Weatley"/>
+			</Actors>			
+		</DvdElement>					
+		
+		<DvdElement id="D013" designation="Magnolia" type="DVD" price="15" genre="Drame" realisateur="Paul Thomas Anderson" annee="1999"/>
+		<DvdElement id="D014" designation="Exit" type="DVD" price="15" genre="Policier" realisateur="Olivier Megaton" annee="2000">
+			<Actors>
+				<Actor name="Patrick Fontana"/>
+				<Actor name="Féodor Atkine"/>
+				<Actor name="Clotilde Courau"/>
+			</Actors>			
+		</DvdElement>					
+		<DvdElement id="D015" designation="X-Men" type="DVD" price="15" genre="Fantastique" realisateur="Bryan Singer" annee="2000">
+			<Actors>
+				<Actor name="Hugh Jackman"/>
+				<Actor name="Patrick Stewart"/>
+				<Actor name="Ian McKellen"/>
+				<Actor name="Famke Janssen"/>
+			</Actors>			
+		</DvdElement>			
+		<DvdElement id="D016" designation="The Yards" type="DVD" price="15" genre="Policier" realisateur="James Gray" annee="2000">
+			<Actors>
+				<Actor name="Mark Wahlberg"/>
+				<Actor name="Joaquim Phenix"/>
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D017" designation="O'Brother" type="DVD" price="15" genre="Comédie" realisateur="Joel Cohen, Ethan Cohen" annee="2000">
+			<Actors>
+				<Actor name="Georges Clooney"/>
+				<Actor name="John Turturro"/>
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D018" designation="Les mutants de l'espace" type="DVD" price="15" genre="Film d'animation" realisateur="Bill Plympton" annee="2001" provenance="americaine"/>
+		<DvdElement id="D019" designation="High Fidelity" type="DVD" price="15" genre="Comédie" realisateur="Stephen Frears" annee="2000" provenance="americaine">
+			<Actors>
+				<Actor name="John Cusack" role="Rob Gordon"/>
+				<Actor name="Iben Hjejle" role="Laura"/>
+				<Actor name="Jack Black" role="Barry"/>
+				<Actor name="Todd Louiso" role="Dick"/>
+			</Actors>			
+		</DvdElement>
+		<DvdElement id="D019" designation="Trainspotting" type="DVD" price="15" genre="Drame" realisateur="Danny Boyle" annee="1996"/>
+		<DvdElement id="D020" designation="La ligne Verte" type="DVD" price="15" genre="Drame" realisateur="Frank Darambont" annee="1999" musique="Thomas Newman" scenario="Frank Darambont">
+			<Actors>
+				<Actor name="Tom Hanks" role="Paul Edgecomb"/>
+				<Actor name="David Morse" role="Brutus 'Brutal' Howell"/>
+				<Actor name="Bonnie Hunt" role="Jan Edgecomb"/>
+				<Actor name="Michael Clarke Duncan" role="John Coffey"/>
+			</Actors>			
+		</DvdElement> 	
+		<DvdElement id="D021" designation="Predator2" type="DVD" price="15" genre="Fantastique" realisateur="Stephen Hopkins" annee="1990">
+			<Actors>
+				<Actor name="Danny Glover" role="Mike Harrigan"/>
+				<Actor name="Gary Busey" role="Peter Keyes"/>
+				<Actor name="Maria Conchita Alonso" role="Leona Cantrell"/>
+				<Actor name="Bill Paxton" role="Jerry Lambert"/>
+			</Actors>			
+		</DvdElement>	
+		<DvdElement id="D022" designation="Tigre et Dragon" type="DVD" price="15" genre="Aventure" realisateur="Ang Lee" annee="2000" provenance="sino-americain">
+			<Actors>
+				<Actor name="Chow Yun Fat"/>
+				<Actor name="Michelle Yeoh"/>
+				<Actor name="Zhang Ziyi"/>
+				<Actor name="Chang Chen"/>
+			</Actors>			
+		</DvdElement>	
+		<DvdElement id="D023" designation="Fist of Legend" type="DVD" price="15" genre="Action" realisateur="Gordon Chan" annee="1994" musique="Joseph Koo" scenario="Gordon Chan, Lan Kay Toa">
+			<Actors>
+				<Actor name="Jet Li" Role="Chen Zen" />
+				<Actor name="Paul Chang" />
+				<Actor name="Siu-hou Chin" Role="Huo Ting-En" />
+				<Actor name="Billy Chow" Role="Gô Fujita" />
+			</Actors>			
+		</DvdElement>
+		<DvdElement id="D024" designation="En territoire ennemi" type="DVD" price="20" genre="Guerre" realisateur="John Moore" annee="2001" musique="Don Davis" scenario="Jim Thomas, John  Thomas, David Veloz, Zak Penn">
+			<Actors>
+				<Actor name="Owen Wilson" Role="Lt Chris Burnett" />
+				<Actor name="Gene Hackman" Role="Leslie Reigart" />
+				<Actor name="Gabriel Macht" Role="Stackhouse" />
+				<Actor name="Charles Malik Whitfield" Role="Rodway" />
+			</Actors>			
+		</DvdElement>
+		<DvdElement id="D025" designation="Monique" type="DVD" price="25" genre="Comédie" realisateur="Valérie Guignabodet" annee="2002" musique="Cédric Neveux" scenario="Valérie Guignabodet">
+			<Actors>
+				<Actor name="Albert Dupontel" Role="Alex" />
+				<Actor name="Marianne Denicourt" Role="Claire" />
+				<Actor name="Philippe Uchan" Role="Marc" />
+				<Actor name="Marina Rodriguez-Tomé" Role="Sophie" />
+				<Actor name="Sophie Mounicot" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D026" designation="Une affaire de goût" type="DVD" price="15" genre="Drame" realisateur="Bernard Rapp" annee="1999">
+			<Actors>
+				<Actor name="Bernard Giraudeau" />
+				<Actor name="Jean-Pierre Lorit" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D027" designation="Cecil B. DeMented" type="DVD" price="25" genre="Comédie" realisateur="John Waters" annee="2000">
+			<Actors>
+				<Actor name="Stephen Dorff" />
+				<Actor name="Alicia Witt" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D028" designation="Abyss" type="DVD" price="25" genre="Fantastique" realisateur="James Cameron" annee="1989">
+			<Actors>
+				<Actor name="Ed Harris" />
+				<Actor name="Marie Elisabeth Mastrantonio" />
+				<Actor name="Michael Biehn" />
+				<Actor name="Leo Burmester" />
+				<Actor name="Todd Graff" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D029" designation="Ghost World" type="DVD" price="15" genre="Comédie" realisateur="Terry Zwigoff" annee="2001">		
+			<Actors>
+				<Actor name="Thora Birch" Role="Enid" />
+				<Actor name="Scarlett Johansson" Role="Rebecca" />
+				<Actor name="Steve Buscemi" Role="Seymour" />
+				<Actor name="Brad Renfro" Role="Josh" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D030" designation="Les Autres" type="DVD" price="20" genre="Fantastique" realisateur="Alejandro Amenabar" annee="2001">
+			<Actors>
+				<Actor name="Alakina Mann" />
+				<Actor name="Nicole Kidman" />
+				<Actor name="James Bentley" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D031" designation="The Big One" type="DVD" price="20" genre="Documentaire" realisateur="Michael Moore" annee="1999">		
+			<Actors>
+				<Actor name="Michael Moore" />
+				<Actor name="Phil Knight" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D032" designation="Ocean's Eleven" type="DVD" price="15" genre="Suspense" realisateur="Steven Soderbergh" annee="2001">
+			<Actors>
+				<Actor name="George Clooney" />
+				<Actor name="Brad Pitt" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D033" designation="La rançon" type="DVD" price="15" genre="Suspense" realisateur="Ron Howard" annee="1996">
+			<Actors>
+				<Actor name="Mel Gibson" Role="Tom Mullen" />
+				<Actor name="Rene Russo" Role="Kate Mullen" />
+				<Actor name="Gary Sinise" Role="Jimmy Shaker" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D034" designation="La plage" type="DVD" price="15" genre="Aventure" realisateur="Danny Boyle" annee="1999">
+			<Actors>
+				<Actor name="Leonardo DiCaprio" />
+				<Actor name="Virginie Ledoyen" />
+				<Actor name="Guillaume Canet" />
+			</Actors>			
+		</DvdElement>		
+		<DvdElement id="D035" designation="Barton Fink" type="DVD" price="15" genre="Comédie Dramatique" realisateur="Joel and Ethan Cohen" annee="1991">
+			<Actors>
+				<Actor name="John Turturro" />
+				<Actor name="John Goodman" />
+			</Actors>			
+		</DvdElement>			
+		<DvdElement id="D036" designation="Little Buddha" type="DVD" price="15" genre="Comédie Dramatique" realisateur="Bernardo Bertolucci" annee="1993" musique="Ryuichi Sakamoto" scenario="Bernardo Bertolucci, Mark Peploe">
+			<Actors>
+				<Actor name="Keanu Reeves" Role="Siddhârta Gautama Buddha" />
+				<Actor name="Ying Ruocheng" Role="Lama Norbu" />
+				<Actor name="Chris Isaak" Role="Dean Conrad" />
+			</Actors>			
+		</DvdElement>					
+	</dvds>
+	<games>
+		<gameElement id="G001" designation="Heroes of Might and Magic IV" type="Game" price="20" />
+		<gameElement id="G002" designation="Worms Armagedon" type="Game" price="19" />
+		<gameElement id="G003" designation="1942" type="Game" price="10" />
+	</games>
+</products>
+

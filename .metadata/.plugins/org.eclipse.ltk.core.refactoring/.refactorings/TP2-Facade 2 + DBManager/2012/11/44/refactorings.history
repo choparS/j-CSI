@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;fr.shortcircuit.db&apos; to &apos;j-CSI/src&apos;&#x0D;&#x0A;- Original project: &apos;TP2-Facade 2 + DBManager&apos;&#x0D;&#x0A;- Destination element: &apos;j-CSI/src&apos;&#x0D;&#x0A;- Original element: &apos;TP2-Facade 2 + DBManager/src/fr.shortcircuit.db&apos;" description="Copy package" destination="=j-CSI/src" element1="/src&lt;fr.shortcircuit.db" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1351848694656" version="1.0"/>
+</session>
