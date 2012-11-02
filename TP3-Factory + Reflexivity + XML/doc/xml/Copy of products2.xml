@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<products>
+	<dvds>
+		<DvdElement id="D001" designation="The Big Lebowsky" type="DVD" price="15" />
+		<DvdElement id="D002" designation="L'enfer du dimanche" type="DVD" price="13" />
+		<DvdElement id="D003" designation="American Beauty" type="DVD" price="15" />
+		<DvdElement id="D004" designation="Braveheart" type="DVD" price="15" />
+		<DvdElement id="D005" designation="Vercingetorix" type="DVD" price="15" />									
+		<DvdElement id="D006" designation="Animal Factory" type="DVD" price="15" />											
+		<DvdElement id="D007" designation="La vie, l'amour, les vaches" type="DVD" price="15" />											
+		<DvdElement id="D008" designation="Crossing Guard" type="DVD" price="15" />
+		<DvdElement id="D010" designation="Swimming with sharks" type="DVD" price="15" />
+		<DvdElement id="D011" designation="Les grands ducs" type="DVD" price="15" />				
+	</dvds>
+	<games>
+		<gameElement id="G001" designation="Heroes of Might and Magic IV" type="Game" price="20" />
+		<gameElement id="G002" designation="Worms Armagedon" type="Game" price="19" />
+		<gameElement id="G003" designation="1942" type="Game" price="10" />
+	</games>
+</products>
+
